@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 int main() {
+    //1
     int a;
 
     printf("Masukkan nilai a: ");
@@ -12,6 +13,7 @@ int main() {
         printf("Nilai a negatif\n");
     }
 
+    //2
     int bilangan;
 
     printf("Masukkan sebuah bilangan: ");
@@ -25,6 +27,7 @@ int main() {
         printf("Bilangan tersebut adalah bilangan ganjil.\n");
     }
 
+    //3
     float total_pembelian;
     float potongan_harga = 0.0;
 
@@ -40,6 +43,7 @@ int main() {
     printf("Potongan harga yang diterima: Rp. %.2f\n", potongan_harga);
 
 
+    //4
     int bilangan_pertama, bilangan_kedua;
 
     printf("Masukkan bilangan pertama: ");
@@ -54,6 +58,8 @@ int main() {
         printf("Bilangan pertama bukan kelipatan persekutuan bilangan kedua.\n");
     }
 
+
+    //5
     int bil1, bil2;
     float hasil;
 
@@ -71,6 +77,7 @@ int main() {
     }
 
 
+    //3
     int bilangan1;
 
     printf("Masukkan sebuah bilangan: ");
